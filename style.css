@@ -20,7 +20,7 @@ header {
 
 @media (min-width: 576px) {
     header {
-        height: 400px;
+        height: 600px;
         width: 100vw;
     }
 }
