@@ -5,7 +5,7 @@
 }
 
 header {
-    background-image: url(/bootstrap/assets/header.jpeg);
+    background-image: url(/assets/header.jpeg);
     background-size: cover;
 
 }
@@ -23,5 +23,9 @@ header {
         height: 400px;
         width: 100vw;
     }
+}
+
+nav {
+    height: 50px;
 }
 
