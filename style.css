@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(/bootstrap/assets/header.jpeg);
+    background-size: cover;
+
+}
+  
+.news, .events {
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+    height: 300px;
+    width: 100%;
+}
+
+@media (min-width: 576px) {
+    header {
+        height: 400px;
+        width: 100vw;
+    }
+}
+
